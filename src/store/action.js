@@ -1,0 +1,3 @@
+export const KEY_BOARD_SCROLL = 'KEY_BOARD_SCROLL'
+export const PANEL_SCROLL = 'PANEL_SCROLL'
+
